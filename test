@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+	<head>
+		<title>layla</title>
+		
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+	</head>
+		
+	<body>
+		<h1>Hello!</h1> <h2></h2>
+		<p>this is a peacock</p>
+		
+		<h3>Websites</h3>
+		<ul>
+			<li><a href="http://google.com">Google</a></li>
+			<li><a href="http://yahoo.com">Yahoo!</a></li>
+			<li><a href="http://bing.com">Bing</a></li>
+			<li></li>
+
+		</ul>
+
+		<div class="container">
+  <div class="row justify-content-start">
+    <div class="col-4">
+      one of two columns
+    </div>
+    <div class="col-4">
+      <img src="https://lh3.googleusercontent.com/hMsmrJZpmhvFX3BX--GC0YllC_QkUlmuEA8fwTj0fJPUV_Fr-Pk-iue4YDLpGEiU3tfOO5OoJJ_wpN7qLCucWq-JraQi2C3EIqzV1evBJ3xuZ3CwbkwpACAtMF_v1mlfaR8qew0R09GxcGE0a5PH2_IBYBCCXKw9rOPOu3NTEVapVIMuG9bqi0x3lUvtpB4uI3Wv9mv09uzF9xHQf7LUqbDoy06E5X3Vl4goAw6s6irfXIWI9bFPEjrSTw6UVKUqTmJkvBp4-6cQY4gYy1KUfAGjLD-KlrUgn2w9K0NVum7dgM-vN7hsPQNwOS_zdfPdI7NpwKPZ4pNSgD0ebzCQ1uK1MCH--XvBWyiXvdSzRJ44fDlkF36Wpz29qW6C3oltRlToLDmWePCGeabRSaT_5Goc5Db9OE0i_JfJi_Aocr7Owkz8R-z5f2JxtSDIaKikqA9f1hGJZGlyLZEvWvI4QsJ8l_yNCcfUdXbt_e5PXJYkSiIBtPtWDMI8wqW6QgwY8Kb_4l1EQCm89VLwW20kHm9cAOYV4XljZhz-1qvuU5d7wXWbdvagV129JZnW_rUlno_JUtmxiVE3pXzjVGw_4Q770bsj7-v10q1ALFpZ=w1124-h546-no" width="240" height="150">
+      </div>
+     <div class="col-4">
+      two of two columns
+    </div>
+  </div>
+  </div>
+	
+	</body>
+</html>
